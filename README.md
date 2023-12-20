@@ -21,5 +21,11 @@ Proxy that allows connecting to modern servers (1.15.2) from beta1.9 (r1.0) clie
 - [x] Player head rotation
 - [x] Almost everything
 
+How to build 
+git clone https://github.com/BDmajora/Beta2Release
+cd Beta2Release
+Use mvn clean install
+
+
 ### Screenshots
 ![ss](https://i.imgur.com/H3ejz5K.png)
